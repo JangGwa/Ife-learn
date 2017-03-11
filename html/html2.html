@@ -4,29 +4,36 @@
     <meta charset="UTF-8">
     <title>html学习第二篇</title>
     <style type="text/css">
-        .container{
+        body,div,img,a,ul,li,table,tr,td{
             margin:0;
             padding:0;
         }
-        .top{
-            height: 100px;
+        .top {
+            height: 50px;
             width: 100%;
             background-color: dimgrey;
-            margin:0;
-            padding:0;
+            margin: 0;
+            padding: 0;
+        }
+        .top ul{
+            float: right;
+        }
+        ul li{
+            float: left;
+            margin: 25px;
         }
     </style>
 </head>
 <body>
 <div class="container">
-<div class="top">
-    <ul class="nav">
-        <li>导航链接一</li>
-        <li>导航链接二</li>
-        <li>导航链接三</li>
-        <li>导航链接四</li>
-    </ul>
-</div>
+    <header class="top">
+        <ul class="nav">
+            <li><a href="#">导航链接一</a></li>
+            <li><a href="#">导航链接二</a></li>
+            <li><a href="#">导航链接三</a></li>
+            <li><a href="#">导航链接四</a></li>
+        </ul>
+    </header>
     <h1>文章一级标题</h1>
     <h3>文章二级标题</h3>
     <h6>文章作者 文章发表时间</h6>
