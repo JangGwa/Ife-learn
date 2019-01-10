@@ -7,7 +7,7 @@
 - [类型与文法](https://github.com/JangGwa/blog-learn/issues/5)
 
 ### JS 基础知识
-- [原型](https://github.com/JangGwa/blog-learn/issues/5)  
+- [原型](https://github.com/JangGwa/blog-learn/issues/7)  
 - [闭包](https://github.com/JangGwa/blog-learn/issues/5)  
 - [继承](https://github.com/JangGwa/blog-learn/issues/5)
 - [模块](https://github.com/JangGwa/blog-learn/issues/5)  
