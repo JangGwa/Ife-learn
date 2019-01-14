@@ -30,6 +30,7 @@
 ### 算法基础知识
 - [常用排序实现](https://github.com/JangGwa/blog-learn/issues/5)  
 - [背包问题实现](https://github.com/JangGwa/blog-learn/issues/5)  
+- [二分查找实现](https://github.com/JangGwa/blog-learn/issues/5)
 
 ### 流行库的简单实现
 - [react简单实现](https://github.com/JangGwa/blog-learn/issues/5)  
