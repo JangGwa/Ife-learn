@@ -8,13 +8,13 @@
 
 ### JS 基础知识
 - [原型](https://github.com/JangGwa/blog-learn/issues/7)  
-- [闭包](https://github.com/JangGwa/blog-learn/issues/5)  
-- [继承](https://github.com/JangGwa/blog-learn/issues/5)
+- [闭包](https://github.com/JangGwa/blog-learn/issues/8)  
+- [继承](https://github.com/JangGwa/blog-learn/issues/9)
 - [模块](https://github.com/JangGwa/blog-learn/issues/5)  
-- [深浅拷贝实现](https://github.com/JangGwa/blog-learn/issues/5)  
+- [深浅拷贝实现](https://github.com/JangGwa/blog-learn/issues/11)  
 - [防抖实现](https://github.com/JangGwa/blog-learn/issues/5)
 - [节流实现](https://github.com/JangGwa/blog-learn/issues/5)  
-- [call,apply,bind实现](https://github.com/JangGwa/blog-learn/issues/5)  
+- [call,apply,bind实现](https://github.com/JangGwa/blog-learn/issues/10)  
 - [Promise实现](https://github.com/JangGwa/blog-learn/issues/5)  
 - [Generator实现](https://github.com/JangGwa/blog-learn/issues/5)  
 
@@ -29,8 +29,8 @@
 
 ### 算法基础知识
 - [常用排序实现](https://github.com/JangGwa/blog-learn/issues/5)  
-- [背包问题实现](https://github.com/JangGwa/blog-learn/issues/5)  
-- [二叉树实现](https://github.com/JangGwa/blog-learn/issues/5)
+- [背包问题实现](https://github.com/JangGwa/blog-learn/issues/12)  
+- [二叉树实现](https://github.com/JangGwa/blog-learn/issues/13)
 
 ### 流行库的简单实现
 - [react简单实现](https://github.com/JangGwa/blog-learn/issues/5)  
